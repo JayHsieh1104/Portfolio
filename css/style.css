@@ -9685,6 +9685,12 @@ textarea.form-control {
   color: #000000;
 }
 
+.department_name {
+  font-size: large;
+  font-weight: bold;
+  color: #000000;
+}
+
 .location {
   margin: auto 0;
 }
